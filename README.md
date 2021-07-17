@@ -4,6 +4,7 @@
 
 📍 Rio de Janeiro, RJ - Brazil
 
+[stats](https://github-readme-stats.vercel.app/api?username=lfaires)](https://github.com/lfaires/github-readme-stats)
 <!--
 **lfaires/lfaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
