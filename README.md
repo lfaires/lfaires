@@ -4,7 +4,7 @@
 
 📍 Rio de Janeiro, RJ - Brazil
 
-[![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfaires&theme=dark)](https://github.com/lfaires/github-readme-stats)
+[![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfaires&theme=dark&show_icons=true)](https://github.com/lfaires/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
