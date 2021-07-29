@@ -5,7 +5,8 @@
 📍 Rio de Janeiro, RJ - Brazil
 
 [![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfaires&theme=dark)](https://github.com/lfaires/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfaires&theme=dark)](https://github.com/lfaires/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **lfaires/lfaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
