@@ -1,18 +1,17 @@
 ### Hi there, I'm Luiz Fernando 👋
 
  - 🌱 I’m currently learning TypeScript and TypeORM
- - 👯 I’m looking to collaborate on ...
- - 💬 Ask me about ... my projects
+ - 👯 I’m looking to collaborate on open source
+ - 💬 Ask me about my projects
  - 😄 Pronouns: He/him
  - ⚡ Fun fact: I am a chemical engineer
-
-
-📍 Rio de Janeiro, RJ - Brazil
+ - 📍 I'm from Rio de Janeiro, RJ - Brazil 
 
 ### Talk with me:
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lfaires4/)](https://www.linkedin.com/in/lfaires4/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lfaires@gmail.com)](mailto:lfaires@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5da9dd?style=flat&labelColor=5da9dd&logo=twitter&logoColor=white&link=https://www.twitter.com/lfaires4/)](https://www.twitter.com/lfaires4/)
 
 ### Languages and Tools:
 
@@ -45,7 +44,7 @@
   <img align="left" alt="Luiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lfaires&theme=dark&show_icons=true" />
 
 </details>
-<br/>
+
 <details>
   <summary>:zap: Most Used Languages</summary>
 
