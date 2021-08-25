@@ -1,6 +1,6 @@
 ### Hi there, I'm Luiz Fernando 👋
 
- - 🌱 I’m currently learning TypeScript and TypeORM
+ - 🌱 I’m currently learning TypeScript, TypeORM and OOP
  - 💬 Ask me about my projects
  - 😄 Pronouns: He/him
  - ⚡ Fun fact: I am a chemical engineer
